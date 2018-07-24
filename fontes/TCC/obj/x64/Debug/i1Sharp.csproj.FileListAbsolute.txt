@@ -1,0 +1,294 @@
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.exe.config
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.exe
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.pdb
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\MainWindow.baml
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\App.g.cs
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.exe
+D:\TCC\TCC 2\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiag\OneDrive\Área de Trabalho\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiag\OneDrive\Área de Trabalho\Nova pasta\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\i1Pro_SDK_4.2.3\examples\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto1\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto1\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto1\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto1\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto3\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto3\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto3\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto3\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto4\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto4\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto4\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto4\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto7\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto7\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto7\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto7\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 9\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 9\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 9\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 9\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 10\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 10\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 10\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 10\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 11\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 11\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 11\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 12\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 12\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 12\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 12\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 13\New folder\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 13\New folder\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 13\New folder\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 13\New folder\i1Sharp\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 14\TCC\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 14\TCC\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 14\TCC\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 15\TCC\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 15\TCC\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 15\TCC\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 15\TCC\TCC\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 16\TCC\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 16\TCC\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 16\TCC\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 16\TCC\TCC\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 17\TCC\bin\x64\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 17\TCC\bin\x64\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 17\TCC\bin\x64\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\CadastroDeCor.g.cs
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp_MarkupCompile.lref
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\CadastroDeCor.baml
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 17\TCC\bin\x64\Debug\i1Sharp.exe.manifest
+C:\Users\Thiago\Desktop\Projeto 17\TCC\bin\x64\Debug\i1Sharp.application
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.exe.manifest
+C:\Users\Thiago\Desktop\Projeto 17\TCC\TCC\obj\x64\Debug\i1Sharp.application

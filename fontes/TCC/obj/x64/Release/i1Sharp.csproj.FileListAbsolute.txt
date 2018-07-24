@@ -1,0 +1,14 @@
+C:\Users\Thiago\Desktop\Projeto 11\New folder\bin\x64\Release\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 11\New folder\bin\x64\Release\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 11\New folder\bin\x64\Release\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 11\New folder\i1Sharp\obj\x64\Release\i1Sharp.pdb

@@ -1,0 +1,17 @@
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\bin\Debug\i1Sharp.exe.config
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\bin\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\bin\Debug\i1Sharp.pdb
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\bin\Debug\MySql.Data.dll
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\bin\Debug\MySql.Data.xml
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\MainWindow.baml
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\App.g.cs
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp_MarkupCompile.cache
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp.g.resources
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp.exe
+C:\Users\Thiago\Desktop\Projeto 14\TCC\TCC\obj\Debug\i1Sharp.pdb
